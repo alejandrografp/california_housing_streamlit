@@ -2,7 +2,7 @@
 """
 Plantilla: aplicación Streamlit conectada a tu servicio de IA.
 
-Autores: SanchezL, MesquitaJ
+Autores: GraciaA, DanB
 
 Qué hace la app: el usuario introduce 2 variables (ingreso medio y número de
 habitaciones); la app completa el resto con valores por defecto, comprueba que
