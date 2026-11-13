@@ -24,7 +24,7 @@ AUTORES = "GraciaA, DanB"
 # En local se utiliza localhost. Para desplegar en Render, sustituye esta
 # dirección por la URL pública de tu servicio API.
 # API_URL = "http://localhost:8000"
-API_URL = "https://california-housing-streamlit2.onrender.com/"
+API_URL = "https://california-housing-lqhr.onrender.com"
 
 # Segundos de espera.
 TIMEOUT = 90
