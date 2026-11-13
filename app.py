@@ -6,15 +6,6 @@ Ejecución en local (con modelo_california.pkl generado en el ejercicio 1):
 Comando de arranque en Render (Start Command):
     uvicorn app:app --host 0.0.0.0 --port $PORT
 """
-import os
-from contextlib import asynccontextmanager
-
-import joblib
-import pandas as pd
-import requests
-from fastapi import FastAPI, HTTPException
-from pydantic import BaseModel
-
 import joblib
 import pandas as pd
 from fastapi import FastAPI
