@@ -2,7 +2,7 @@
 """
 Plantilla: aplicación Streamlit conectada a tu servicio de IA.
 
-Autores: GraciaA, DanB
+Autores: GraciaA, BolocanD
 
 Qué hace la app: el usuario introduce 2 variables (ingreso medio y número de
 habitaciones); la app completa el resto con valores por defecto, comprueba que
@@ -19,11 +19,10 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(mess
 logger = logging.getLogger("app")
 
 # Nombres que aparecerán en la interfaz (necesario para las capturas).
-AUTORES = "GraciaA, DanB"
+AUTORES = "GraciaA, BolocanD"
 
 # En local se utiliza localhost. Para desplegar en Render, sustituye esta
 # dirección por la URL pública de tu servicio API.
-# API_URL = "http://localhost:8000"
 API_URL = "https://california-housing-lqhr.onrender.com"
 
 # Segundos de espera.
