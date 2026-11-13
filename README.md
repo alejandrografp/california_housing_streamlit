@@ -9,7 +9,7 @@ Está formada por dos servicios:
 
 La interfaz se conecta a la API mediante la URL configurada en `API_URL` (o en la barra lateral de la aplicación).
 
-Autores: GraciaA, DanB
+Autores: GraciaA, BolocanD
 
 ## Servicios desplegados en Render
 
